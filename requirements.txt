@@ -6,3 +6,4 @@ pypdf
 tiktoken
 langchain-community
 pysqlite3-binary
+faiss-cpu
